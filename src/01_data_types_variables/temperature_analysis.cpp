@@ -10,7 +10,10 @@
  * - Maximum temperature
  * - Minimum temperature
 
- * Run the file with `./temperature_analysis` in the terminal
+ * To run the file, use the following command in the terminal:
+ * Create the executable file with `g++ temperature_analysis.cpp -o temperature_analysis`
+ * Run the file with `./temperature_analysis` in the terminal if you are on Mac or Linux.
+ * On Windows, you can run the file by navigating to the directory containing the executable and typing the file name followed by `.exe`.
  */
 
 #include <iostream>
